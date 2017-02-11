@@ -8,7 +8,7 @@
 ../MacOS/GaetanDecorationFacturation=@rpath/QtCore.framework/Versions/5/QtCore->@executable_path/../Frameworks/QtCore.framework/Versions/5/QtCore
 ../MacOS/GaetanDecorationFacturation=@rpath/QtPrintSupport.framework/Versions/5/QtPrintSupport->@executable_path/../Frameworks/QtPrintSupport.framework/Versions/5/QtPrintSupport
 ../MacOS/GaetanDecorationFacturation=@rpath/QtNetwork.framework/Versions/5/QtNetwork->@executable_path/../Frameworks/QtNetwork.framework/Versions/5/QtNetwork
-../MacOS/libcommon_structs.dylib=@rpath/QtWidgets.framework/Versions/5/QtWidgets->@executable_path/../Frameworks/QtWidgets.framework/Versions/5/QtWidget
+../MacOS/libcommon_structs.dylib=@rpath/QtWidgets.framework/Versions/5/QtWidgets->@executable_path/../Frameworks/QtWidgets.framework/Versions/5/QtWidgets
 ../MacOS/libcommon_structs.dylib=@rpath/QtGui.framework/Versions/5/QtGui->@executable_path/../Frameworks/QtGui.framework/Versions/5/QtGui
 ../MacOS/libcommon_structs.dylib=@rpath/QtCore.framework/Versions/5/QtCore->@executable_path/../Frameworks/QtCore.framework/Versions/5/QtCore
 ../MacOS/libdocument_loader.dylib=@rpath/QtWidgets.framework/Versions/5/QtWidgets->@executable_path/../Frameworks/QtWidgets.framework/Versions/5/QtWidgets
